@@ -1,3 +1,6 @@
+![Flow](res/flow.png)
+
+
 # CI/CD Pipeline for Cloud-Native Applications on AWS with Jenkins and EKS
 
 This project comprises the practices of DevOps, cloud-native development, and automation, demonstrating a seamless Continuous Integration/Continuous Deployment (CI/CD) pipeline built atop AWS. Leveraging Jenkins for automation, Docker for containerization, and Amazon EKS for orchestrated deployment, this pipeline epitomizes modern application delivery.
